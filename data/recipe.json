@@ -1,6 +1,7 @@
 [
   {
     "_id": "abcf1de2g3h4i5j6k7l",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Classic Grilled Cheese Sandwich",
     "chef_id": 1,
     "ingredients": "2 slices of bread, 2 slices of American cheese, butter",
@@ -10,6 +11,7 @@
   },
   {
     "_id": "bcde2fgh3ijk4lmn5op",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Classic Pancakes",
     "chef_id": 2,
     "ingredients": "1 1/2 cups all-purpose flour, 3 1/2 teaspoons baking powder, 1 teaspoon salt, 1 tablespoon white sugar, 1 1/4 cups milk, 1 egg, 3 tablespoons butter",
@@ -19,6 +21,7 @@
   },
   {
     "_id": "cdef3ghi4jkl5mno6pq",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Beef Chili",
     "chef_id": 3,
     "ingredients": "1 pound ground beef, 1 onion, 1 green bell pepper, 2 cloves garlic, 1 can kidney beans, 1 can diced tomatoes, 1 can tomato sauce, 2 tablespoons chili powder, 1 teaspoon cumin, 1/2 teaspoon salt, 1/4 teaspoon black pepper",
@@ -28,6 +31,7 @@
   },
   {
     "_id": "defg4hij5klm6nop7qr",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Classic Caesar Salad",
     "chef_id": 4,
     "ingredients": "1 head romaine lettuce, 1/2 cup croutons, 1/4 cup grated Parmesan cheese, 2 tablespoons olive oil, 1 tablespoon lemon juice, 1 garlic clove, 1/4 teaspoon Dijon mustard, salt and pepper to taste",
@@ -37,6 +41,7 @@
   },
   {
     "_id": "efgh5ijk6lmn7opq8rs",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Baked Macaroni and Cheese",
     "chef_id": 5,
     "ingredients": "8 ounces elbow macaroni, 1/4 cup butter, 1/4 cup all-purpose flour, 2 cups milk, 2 cups shredded cheddar cheese, 1/2 teaspoon salt, 1/4 teaspoon black pepper, 1/4 cup bread crumbs",
@@ -46,6 +51,7 @@
   },
   {
     "_id": "fghi6jkl7mno8pqr9st",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Oven-Roasted Chicken",
     "chef_id": 1,
     "ingredients": "1 whole chicken, 2 tablespoons olive oil, 1 teaspoon salt, 1/2 teaspoon black pepper, 1 lemon, 2 sprigs fresh rosemary",
@@ -55,6 +61,7 @@
   },
   {
     "_id": "ghij7klm8nop9qrs0tu",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Homemade Pizza",
     "chef_id": 2,
     "ingredients": "1 pizza crust, 1/2 cup pizza sauce, 1 1/2 cups shredded mozzarella cheese, toppings of your choice (e.g. pepperoni, mushrooms, onions, bell peppers, etc.)",
@@ -64,6 +71,7 @@
   },
   {
     "_id": "hijk8lmn9opq0rst1uv",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Chocolate Chip Cookies",
     "chef_id": 3,
     "ingredients": "2 1/4 cups all-purpose flour, 1 teaspoon baking soda, 1 teaspoon salt, 1/2 cup granulated sugar, 1 cup brown sugar, 2 eggs, 2 teaspoons vanilla extract, 2 cups semisweet chocolate chips",
@@ -73,6 +81,7 @@
   },
   {
     "_id": "ijkl9mno0pqr1stu2vw",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "BBQ Pulled Pork Sandwich",
     "chef_id": 4,
     "ingredients": "3-4 pounds pork shoulder, 1 tablespoon smoked paprika, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon salt, 1/2 tablespoon black pepper, 1 cup BBQ sauce, hamburger buns",
@@ -82,6 +91,7 @@
   },
   {
     "_id": "jklm0nop1qrs2tu3vw",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Apple Pie",
     "chef_id": 5,
     "ingredients": "2 pie crusts, 6 cups thinly sliced peeled tart apples (about 6 medium), 3/4 cup sugar, 1 tablespoon lemon juice, 1 teaspoon ground cinnamon, 1/4 teaspoon ground nutmeg, 1/4 teaspoon salt, 1 tablespoon butter, 1 large egg white, 1 tablespoon coarse sugar",
@@ -91,6 +101,7 @@
   },
   {
     "_id": "klmn1opq2rst3uvw4xy",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Spaghetti and Meatballs",
     "chef_id": 6,
     "ingredients": "1 pound spaghetti, 1 pound ground beef, 1/2 cup bread crumbs, 1/4 cup milk, 1/4 cup grated Parmesan cheese, 1 egg, 1/2 teaspoon salt, 1/2 teaspoon black pepper, 1 tablespoon olive oil, 1 onion, chopped, 2 garlic cloves, minced, 1 can (28 ounces) crushed tomatoes, 1 teaspoon dried basil, 1 teaspoon dried oregano",
@@ -100,6 +111,7 @@
   },
   {
     "_id": "lmno2pqr3stu4vwx5yz",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Baked Mac and Cheese",
     "chef_id": 1,
     "ingredients": "1 pound elbow macaroni, 4 tablespoons butter, 1/4 cup flour, 2 cups milk, 1/2 teaspoon salt, 1/4 teaspoon black pepper, 2 cups shredded cheddar cheese, 1 cup panko bread crumbs",
@@ -109,6 +121,7 @@
   },
   {
     "_id": "mnop3qrs4tuv5wxy6z",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Chicken Enchiladas",
     "chef_id": 2,
     "ingredients": "2 cups shredded cooked chicken, 1 can (10 ounces) enchilada sauce, 1/2 cup sour cream, 1/4 cup chopped fresh cilantro, 2 cups shredded cheddar cheese, 8 flour tortillas",
@@ -118,6 +131,7 @@
   },
   {
     "_id": "qrst4uvw5xyz6ab1cd2e",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Peanut Butter Cookies",
     "chef_id": 3,
     "ingredients": "1/2 cup unsalted butter, 1/2 cup granulated sugar, 1/2 cup brown sugar, 1/2 cup creamy peanut butter, 1 egg, 1 teaspoon vanilla extract, 1 1/4 cups all-purpose flour, 1/2 teaspoon baking powder, 1/2 teaspoon baking soda, 1/4 teaspoon salt",
@@ -127,6 +141,7 @@
   },
   {
     "_id": "uvwxyz7abcd1efg2hij3klm",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Chocolate Brownies",
     "chef_id": 4,
     "ingredients": "1/2 cup unsalted butter, 1 cup granulated sugar, 1/2 cup all-purpose flour, 1/3 cup cocoa powder, 1/4 teaspoon salt, 1/4 teaspoon baking powder, 2 eggs, 1 teaspoon vanilla extract",
@@ -136,6 +151,7 @@
   },
   {
     "_id": "abc123def456ghi789jkl",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Chicken Alfredo Pasta",
     "chef_id": 5,
     "ingredients": "8 oz. fettuccine pasta, 2 tbsp. unsalted butter, 1 lb. boneless chicken breasts, 1/2 tsp. salt, 1/4 tsp. black pepper, 2 garlic cloves, minced, 1 cup heavy cream, 1/2 cup grated Parmesan cheese",
@@ -145,6 +161,7 @@
   },
   {
     "_id": "def456ghi789jkl123mno",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Baked Mac and Cheese",
     "chef_id": 6,
     "ingredients": "8 oz. elbow macaroni, 1/4 cup unsalted butter, 1/4 cup all-purpose flour, 2 cups milk, 1/2 tsp. salt, 1/4 tsp. black pepper, 2 cups shredded cheddar cheese, 1/2 cup panko breadcrumbs",
@@ -154,6 +171,7 @@
   },
   {
     "_id": "ghi789jkl123mno456pqr",
+    "img": "https://i.ibb.co/qRq9DDc/f.jpg",
     "recipe_name": "Lemon Garlic Shrimp",
     "chef_id": 6,
     "ingredients": "1 lb. large shrimp, peeled and deveined, 1 tbsp. olive oil, 2 garlic cloves, minced, 1/2 tsp. salt, 1/4 tsp. black pepper, 2 tbsp. unsalted butter, 1 lemon, juiced, 1/4 cup chopped fresh parsley",
