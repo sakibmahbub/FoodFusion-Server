@@ -11,7 +11,7 @@
   {
     "id": 2,
     "picture": "https://i.ibb.co/wCtFGht/chef2.jpg",
-    "name": "Mary Johnson",
+    "name": "Mario Johnson",
     "bio": "Mary Johnson is a highly experienced chef with 15 years of experience. She has created 75 recipes that have garnered the attention of many food enthusiasts, with 2000 likes.",
     "experience": 15,
     "recipes": 75,
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "picture": "https://i.ibb.co/pv8r2T0/chef6.jpg",
-    "name": "Sarah Thompson",
+    "name": "Vin Thompson",
     "bio": "Sarah Thompson is a young chef with 5 years of experience. Although she has only created 3 recipes so far, her culinary skills have already gained her 500 likes from food enthusiasts.",
     "experience": 5,
     "recipes": 3,
