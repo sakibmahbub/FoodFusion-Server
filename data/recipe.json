@@ -82,10 +82,10 @@
   {
     "_id": "ijkl9mno0pqr1stu2vw",
     "img": "https://i.ibb.co/qRq9DDc/f.jpg",
-    "recipe_name": "BBQ Pulled Pork Sandwich",
+    "recipe_name": "BBQ Pulled turkey Sandwich",
     "chef_id": 4,
-    "ingredients": "3-4 pounds pork shoulder, 1 tablespoon smoked paprika, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon salt, 1/2 tablespoon black pepper, 1 cup BBQ sauce, hamburger buns",
-    "cooking_method": "Rub the pork shoulder with the smoked paprika, garlic powder, onion powder, salt, and black pepper. Place the pork shoulder in a slow cooker and pour the BBQ sauce over it. Cook on low for 8-10 hours, or until the pork is fall-apart tender. Remove the pork from the slow cooker and shred with two forks. Serve the pulled pork on hamburger buns with additional BBQ sauce, if desired.",
+    "ingredients": "3-4 pounds turkey shoulder, 1 tablespoon smoked paprika, 1 tablespoon garlic powder, 1 tablespoon onion powder, 1 tablespoon salt, 1/2 tablespoon black pepper, 1 cup BBQ sauce, hamburger buns",
+    "cooking_method": "Rub the turkey shoulder with the smoked paprika, garlic powder, onion powder, salt, and black pepper. Place the turkey shoulder in a slow cooker and pour the BBQ sauce over it. Cook on low for 8-10 hours, or until the turkey is fall-apart tender. Remove the turkey from the slow cooker and shred with two forks. Serve the pulled turkey on hamburger buns with additional BBQ sauce, if desired.",
     "rating": 4.5,
     "favorite": false
   },
